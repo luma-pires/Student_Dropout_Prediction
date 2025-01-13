@@ -22,23 +22,6 @@ Fatores como:
 
 impactam as probabilidades de evasão. Esses resultados estão em conformidade com as observações feitas durante a análise exploratória (baixa interação com a plataforma = evasão).
 
-Com base nesses insights, podem ser adotadas ações específicas para desincentivar a evasão, como:
-
-- Incentivar a realização de mais provas e exercícios: programas de gamificação ou metas de aprendizado podem motivar os estudantes a se engajarem mais com o conteúdo e a prática. Oferecer algumas provas e exercícios exclusivamente em formato síncrono também pode ser uma estratégia eficaz para evitar que os alunos posterguem as atividades e, consequentemente, deixem de finalizá-las.
-
-- Estímulo ao acesso frequente à plataforma: notificações personalizadas, lembretes de atividades pendentes, conteúdos novos e até uma ofensiva (semelhante ao Duolinguo) podem incentivar visitas diárias ou semanais.
-
-- Aumentar o intervalo entre os prieiros provas/exercícios realizados: o baixo intervalo de dias entre o primeiro e o último prova/exercício pode indicar períodos de inatividade ou desinteresse. Assim, aplicar recompensas para quem realizar provas/exercícios regularmente ou completar as atividades dentro de prazos curtos pode ser um caminho promissor.
-
-Fatores como:
-
-o número de provas realizadas (+ provas realizadas = - chance de evasão)
-o número de exercícios realizados (- exercícios realizados = + chance de evasão)
-o acesso à plataforma (- acesso/número de visitas = + chance de evasão)
-tempo na plataforma (- tempo = + chance de evasão)
-intervalo de dias entre o primeiro e o último exercício/prova (- intervalo entre primeiro e último exercício/prova = + chance de evasão)
-foram identificados como essenciais para as chances de evasão. Esses resultados estão em conformidade com as observações feitas durante a análise exploratória (baixa interação com a plataforma = evasão).
-
 Tendo isso em vista, ações como:
 
 - Incentivar a realização de mais provas e exercícios: programas de gamificação ou metas de aprendizado podem motivar os estudantes a se engajarem mais com o conteúdo e a prática. Oferecer algumas provas e exercícios exclusivamente em formato síncrono também pode ser uma estratégia eficaz para evitar que os alunos posterguem as atividades e, consequentemente, deixem de finalizá-las;
